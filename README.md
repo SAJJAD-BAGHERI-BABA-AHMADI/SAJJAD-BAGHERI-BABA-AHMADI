@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SAJJAD-BAGHERI-BABA-AHMADI
-- 👀 I’m interested in AI, machine and deep learning, Cybersecurity, multimedia fronsics, NLP, image watermarking. 
+- 👀 I’m interested in AI, machine and deep learning, Cybersecurity, multimedia fronsics, NLP, and image watermarking. 
 - 👀 I work as an adjunct professor in IAU university, teaching and researching in computer engineering field;
-besides, I work as a software developer in TCI and I am looking forward to lunch my start-up product-led company creating and selling software, websites and apps .
+besides, I work as a software developer in TCI and I am looking forward to lunch my start-up product-led company.
 - 📫 My email: s.bagheri1367@yahoo.com
 
 <!---
